@@ -56,17 +56,17 @@
     <MaxSlope>70</MaxSlope>
     <MaxSprintSpeed>7</MaxSprintSpeed>
 
-    <MaxRunSpeed>3.8</MaxRunSpeed>
-    <MaxBackrunSpeed>3.1</MaxBackrunSpeed>
-    <MaxRunStrafingSpeed>3.3</MaxRunStrafingSpeed>
+    <MaxRunSpeed>4</MaxRunSpeed>
+    <MaxBackrunSpeed>2.5</MaxBackrunSpeed>
+    <MaxRunStrafingSpeed>2.5</MaxRunStrafingSpeed>
 
-    <MaxWalkSpeed>1.8</MaxWalkSpeed>
-    <MaxBackwalkSpeed>1.8</MaxBackwalkSpeed>
-    <MaxWalkStrafingSpeed>1.8</MaxWalkStrafingSpeed>
+    <MaxWalkSpeed>2</MaxWalkSpeed>
+    <MaxBackwalkSpeed>2</MaxBackwalkSpeed>
+    <MaxWalkStrafingSpeed>2</MaxWalkStrafingSpeed>
 
     <MaxCrouchWalkSpeed>1.3</MaxCrouchWalkSpeed>
-    <MaxCrouchBackwalkSpeed>0.9</MaxCrouchBackwalkSpeed>
-    <MaxCrouchStrafingSpeed>0.9</MaxCrouchStrafingSpeed>
+    <MaxCrouchBackwalkSpeed>1</MaxCrouchBackwalkSpeed>
+    <MaxCrouchStrafingSpeed>1</MaxCrouchStrafingSpeed>
 
     <CharacterHeadSize>0.35</CharacterHeadSize>
     <CharacterHeadHeight>0.15</CharacterHeadHeight>

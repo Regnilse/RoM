@@ -6969,7 +6969,7 @@ would be valuable for a Chef.
       <PhysicalMaterial>None</PhysicalMaterial>
       <MaxStackAmount>30</MaxStackAmount>
       <Stats>
-        <Stat Name="Food" Value="1" Time="6" />
+        <Stat Name="Food" Value="0.5" Time="3" />
         <Stat Name="Mood" Value="0.5" Time="1" />
       </Stats>
       <UseSound>PlayEat</UseSound>
